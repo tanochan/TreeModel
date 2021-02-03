@@ -1,0 +1,9 @@
+{
+  "name": "TreeModel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "tree-model": "^1.0.7"
+  }
+}
